@@ -1,0 +1,41 @@
+
+|___________________________________________________________________________________________________________|
+|___________________________________________________________________________________________________________|
+|					INSTRUCCIONES DE JUEGO                                              |
+| 1.Se lanzara un dado de manera aleatoria para determinar quien inicia el juego.                           |
+| 2.Los turnos de juego se alternan entre los jugadores presentes.                                          |
+| 3.Cada jugador debe elegir en cual de las 6 posiciones permitidas colocara inicialmente sus fichas.       |
+| 4.Cada jugador debe elegir un caracter que lo represente.                                                 |
+| 5.Cada jugador contara con 10 fichas al inicio y para ganar debe llevarlas al extremo opuesto.	    |
+|													    |
+|MOVIMIENTO PERMITIDOS:       										    |
+| - Solo se mueve una ficha por turno.									    |
+| Un movimiento valido es:										    |
+| - A una casilla adyacente libre.									    |
+| - Saltando una casilla adyacente ocupada por otra ficha (sea propia o sea de un contrario), y		    |
+|  posandola en la casilla siguiente (en la misma direccion), si esta libre.                                |
+|  Si el movimiento es de este segundo tipo (un salto), y conduce la ficha a una casilla contigua a	    |
+|  otra ocupada, puede seguir moviendo la pieza con la que empezo.					    |
+|                                                                                                           |
+|OJO:En un solo turno, una ficha puede avanzar de una punta del tablero a otra si la situacion es propicia. |
+|                                                                                                           |
+|COMO JUGAR?                                                                                                |
+|  1. Registra el nombre de cada jugador junto con el caracter que identificara a sus fichas.               |
+|  2. Cada jugador debe lanzar el dado virtual para decidir quien sera el jugador numero 1, depende de      |
+|     cuanto esperes para presionar enter el resultado del dado (el tiempo que esperas para presionar enter |
+|     se asemeja a cuando mueves un dado fisico antes de lanzarlo). En caso de obtener ambos jugadores el   |
+|     mismo resultado el jugador uno sera el primero en haberse anotado.                                    |
+|  3. Cada jugador escogera su zona de inicio digitando el numero perteneciente a su zona de preferencia    |
+|     (se mostrara en pantalla las zonas).                                                                  |
+|  4. Comienza el juego!                                                                                    |
+|     4.1. El jugador uno es el primero en moverse.                                                         |
+|     4.2. De darse un movimiento normal el turno acabara automaticamente, en cambio, al darse un movimiento|
+|          con salto el jugador debera presionar el *9* para acabar su turno.                               |
+|     4.3. En caso de saltar, puede hacerlo de nuevo y hasta donde crea conveniente (siempre y cuando sea   |
+|          un movimiento valido) con la misma ficha.                                                        |
+|     4.4. Gana el primero en llevar sus 10 fichas al lado opuesto de su zona de incio.                     |
+|     4.5. Pueden terminar el juego sin haber ganador presionando la tecla *F*.                             |
+|  5. En caso de haber ganador se mostrara un banner con el nombre registrado y la cantidad de movimientos  |
+|     que realizo, ademas de registrar ambos datos en los records de ganadores.                             |
+|___________________________________________________________________________________________________________|
+|___________________________________________________________________________________________________________|
